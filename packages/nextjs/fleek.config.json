@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "tall-napkin-petite",
+      "distDir": "out",
+      "buildCommand": "yarn build"
+    }
+  ]
+}
